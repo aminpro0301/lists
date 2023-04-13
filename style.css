@@ -1,0 +1,27 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+ol { 
+	color: green; 
+}
+
+ul {
+	color: yellow;
+	text-shadow: 0 0 10px black
+}
+
+body {
+	background: lightblue;
+	border: black 7px solid;
+	box-shadow: 0 0 10px red;
+}
+
+a {
+	color: green;
+	text-align: center;
+	display: block;
+	background: lightgreen;
+	border: red 6px solid;
+}
